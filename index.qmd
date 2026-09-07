@@ -1,0 +1,10 @@
+---
+title: "Prof. Davy Baia"
+subtitle: "UFAL - Campus CECA, Rio Largo"
+---
+
+## Disciplinas
+
+- [Informática Aplicada à Engenharia Florestal](https://profdavybaia.github.io/informatica-aplicada-a-engenharia-florestal/)
+- [Técnicas de Programação](https://profdavybaia.github.io/tecnicas-de-programacao/)
+- [Zootecnia de Precisão](https://profdavybaia.github.io/zotecnia-de-precisao/)
